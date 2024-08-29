@@ -10,7 +10,7 @@ import {
 import { Rating } from "@material-tailwind/react";
 import ServicesPopup from "../components/Service/ServicesPopup";
 import Testimonial from "../components/testimonial/testimonial";
-import Nav from "../components/nav/nav";
+import Nav from '../components/nav/Nav';
 import TireBrandsCarousel from "../components/TireBrandsCarousel";
 import FilterCategory from "../components/filterCard/FilterCategory";
 import PaymentMode from "../components/paymentCard/PaymentMode";
@@ -24,7 +24,7 @@ function Dealers() {
 
   return (
     <>
-      <Nav />
+      <Nav/>
       <div className="hero bg-white min-h-96">
         <div className="hero-content max-w-full lg:p-10 sm:p-0 flex flex-col lg:flex-row-reverse">
           <div className="flex justify-end lg:max-w-2xl max-w-xl ">
