@@ -14,7 +14,7 @@ import Nav from '../components/nav/Nav';
 import TireBrandsCarousel from "../components/TireBrandsCarousel";
 import FilterCategory from "../components/filterCard/FilterCategory";
 import PaymentMode from "../components/paymentCard/PaymentMode";
-import Footer from "../components/footer/footer";
+import Footer from "../components/footer/Footer";
 import AskQuestionForm from "../components/AskQuestionForm";
 
 function Dealers() {
